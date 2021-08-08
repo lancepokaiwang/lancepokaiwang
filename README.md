@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer working in Taipei, Taiwan.
+## I'm a Software Engineer working in Taipei, Taiwan.
 
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
 - 🔭 Currently, I work as a Software Engineer in CIeNET Technology's Google OS MTBF group.
