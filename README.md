@@ -2,8 +2,6 @@
 
 I'm a Software Engineer working in Taipei, Taiwan.
 
-Here are some ideas to get you started:
-
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
 - 🔭 Currently, I work as a Software Engineer in CIeNET Technology's Google OS MTBF group.
 - 🏫 Previously, I was a Graduate Researcher & Teaching Assistant at Carleton University and a member of the Software Analytics research lab.
